@@ -289,10 +289,21 @@ KineticSpaceOfficial@gmail.com
 
 ---
 
-# 📜 License
+## 📜 License
 
-MIT License  
-© 2026 Kinetic Space Inc.
+AtlasHub is distributed under a **Dual License model**:
+
+### 🟢 Open Source
+GNU GPL v3 – Free and open-source usage.
+
+### 🔵 Commercial
+For private, closed-source, SaaS or enterprise usage,
+a commercial license is required.
+
+Contact:
+Kinetic.AI@post.com
+KineticSpaceOfficial@gmail.com
+
 
 ---
 
